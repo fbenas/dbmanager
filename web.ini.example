@@ -1,0 +1,9 @@
+; This is the configuration file for BlaDBManager.php
+; All values must be specified for the site to work. 
+; IF IT AINT RIGHT IT WILL TELL YOU THAT YOU ARE SHIT
+
+[mysql]
+database = database
+username = username
+hostname = hostname
+password = password
